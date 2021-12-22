@@ -1,0 +1,55 @@
+:root {
+    --gray: #495057;
+    --darkblack: #0f2137;
+    --green: #2cd382;
+    --lightgreen:#26bd73;
+    --light-green: #818992;
+    --darkred:#495057;
+    --lightred:#e6191e;
+    --white:#fff;
+    --smokewhite:#e2e5ed;
+    --skyblue:#2196f3;
+  }
+  .fs-12 {
+    font-size: 12px;
+  }
+  .fs-13 {
+    font-size: 13px;
+  }
+  .fs-14 {
+    font-size: 14px;
+  }
+  .fs-15 {
+    font-size: 15px;
+  }
+  .fs-16 {
+    font-size: 16px;
+  }
+  .fs-18 {
+    font-size: 18px;
+  }  
+  .fs-25 {
+    font-size: 25px;
+  }
+  .fs-28{
+    font-size: 28px;
+  }
+  .fs-30{
+    font-size: 30px;
+  }
+  .fs-33{
+    font-size: 33px;
+  }
+  .fs-45 {
+    font-size: 45px;
+  }
+  .fw-500 {
+    font-weight: 500;
+  }
+  .fw-normal {
+    font-weight: normal;
+  }
+  .fw-bold {
+    font-weight: bold;
+  }
+  
